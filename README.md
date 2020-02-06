@@ -1,8 +1,7 @@
 # react16 源码学习
 
 ## 纲要
-- JSX 转 JS
-- React API
+- React 基础方法 (JSX、react-element)
 - React 创建更新方法
 - Fiber 调度系统
 - 组件更新过程
