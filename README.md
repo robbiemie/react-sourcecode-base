@@ -12,6 +12,7 @@
 
 ## 源码目录结构
 
+```
 ├── ...
 ├── packages
 |   ├── ...
@@ -19,3 +20,5 @@
 |   ├── react-dom react-dom 核心模块(DOM 渲染、更新) 
 |   └── schedule  调度模块
 └── scripts       打包工具库
+
+```
